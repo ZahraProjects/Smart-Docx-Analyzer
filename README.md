@@ -16,9 +16,9 @@
 
 To run this project, you need Python 3.x and the python-docx library. You can install the required libraries using:
 
-bash
+```bash
 pip install python-docx
-
+```
 
 ## Usage
 
